@@ -1,1 +1,0 @@
-﻿<%@ ServiceHost Language="C#" Debug="true" Service="Artistry_Service.ArtistryService" CodeBehind="ArtistryService.svc.cs" %>
